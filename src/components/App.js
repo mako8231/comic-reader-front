@@ -1,6 +1,12 @@
+
+import Header from './front-page/Header'
+
 function App() {
   return (
-    <h1>oiii</h1>
+    <div>
+      <Header/>
+      <h1>oiii</h1>
+    </div>
   );
 }
 
