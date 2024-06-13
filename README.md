@@ -1,2 +1,0 @@
-# Comic Reader Frontend
-
